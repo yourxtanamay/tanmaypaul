@@ -115,7 +115,7 @@ http://127.0.0.1:5000/
 
 **Tanmay Paul**
 Diploma in Computer Science Engineering Student
-Interested in **Data Science, Machine Learning, and AI**
+Interested in **Data Science, Machine Learning, and AI, Power BI, Python, SQL**
 
 
 
